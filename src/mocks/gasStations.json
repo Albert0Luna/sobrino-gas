@@ -1,0 +1,39 @@
+{
+  "gas_stations": [
+    {
+      "state": "Querétaro",
+      "address": "Example Ave #123",
+      "phone": "(123) 456-7890",
+      "hours": "Monday to Friday: 8:00 AM - 6:00 PM",
+      "type": "Gas Station"
+    },
+    {
+      "state": "CDMX",
+      "address": "Example Street #456",
+      "phone": "(987) 654-3210",
+      "hours": "Monday to Saturday: 7:00 AM - 8:00 PM",
+      "type": "Gas Station"
+    },
+    {
+      "state": "Estado de México",
+      "address": "Example Blvd #789",
+      "phone": "(456) 789-0123",
+      "hours": "Monday to Sunday: 24 hours",
+      "type": "Gas Station"
+    },
+    {
+      "state": "Nuevo León",
+      "address": "Example Ave #101",
+      "phone": "(234) 567-8901",
+      "hours": "Monday to Friday: 9:00 AM - 7:00 PM",
+      "type": "Gas Station"
+    },
+    {
+      "state": "Jalisco",
+      "address": "Example Street #202",
+      "phone": "(345) 678-9012",
+      "hours": "Monday to Saturday: 8:00 AM - 5:00 PM",
+      "type": "Gas Station"
+    }
+  ]
+}

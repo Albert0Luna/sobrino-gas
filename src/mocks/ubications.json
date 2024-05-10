@@ -1,0 +1,24 @@
+{
+    "estados": [
+      {
+        "nombre": "Ciudad de México",
+        "municipios": ["Cuauhtémoc", "Iztapalapa", "Benito Juárez"]
+      },
+      {
+        "nombre": "Estado de México",
+        "municipios": ["Toluca", "Nezahualcóyotl", "Ecatepec"]
+      },
+      {
+        "nombre": "Jalisco",
+        "municipios": ["Guadalajara", "Zapopan", "Tlaquepaque"]
+      },
+      {
+        "nombre": "Nuevo León",
+        "municipios": ["Monterrey", "San Nicolás de los Garza", "Guadalupe"]
+      },
+      {
+        "nombre": "Querétaro",
+        "municipios": ["Querétaro", "Corregidora", "El Marqués"]
+      }
+    ]
+  }

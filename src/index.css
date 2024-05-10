@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.balance {
+  text-wrap: balance;
+}
+
+.ecotruck {
+  background-image: url('/eco-truck.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.imgAntique {
+  background-image: url('https://i.pinimg.com/originals/51/2c/43/512c430e79aef5f664df644afe491b25.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+@layer base {
+    html {
+			font-family: 'Roboto', sans-serif;
+      background-color: #fefefe;
+    }
+  }
