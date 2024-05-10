@@ -10,8 +10,8 @@ export const Home = () => {
   )
 
   const ngclass = {
-    headerTitle: 'ecotruck grid place-content-center min-h-[240px] lg:h-[87vh] bg-violet-100',
-    slogan: 'text-2xl w-full lg:mb-[25rem] text-center text-white backdrop-filter backdrop-blur-sm rounded-lg bg-black/40 p-3 px-3 leading-loose font-sans font-semibold',
+    headerTitle: 'ecotruck grid place-content-center h-[50vh] lg:h-[100vh] bg-violet-100',
+    slogan: 'text-2xl w-full text-center text-white backdrop-filter backdrop-blur-sm rounded-lg bg-black/40 p-3 px-3 lg:px-8 lg:py-8 lg:rounded-3xl leading-loose font-sans font-semibold',
     sectionContainer: 'grid gap-4 py-5 grid-flow-row grid-cols-1 place-content-center w-full lg:grid-cols-2 lg:gap-y-10 lg:w-10/12 lg:place-content-center lg:m-auto',
     itemContainer: 'grid place-content-center w-full m-auto lg:h-[400px]',
     imgContainer: 'w-full flex justify-center',
